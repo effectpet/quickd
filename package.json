@@ -1,0 +1,27 @@
+{
+  "name": "quickd",
+  "version": "1.0.0",
+  "description": "A discord game about the fastest reaction",
+  "main": "index.js",
+  "keywords": [
+    "discord",
+    "game",
+    "bot",
+    "discordapp"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Johannes Vogt",
+    "email": "vogt.joo@gmail.com"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0"
+  }
+}
