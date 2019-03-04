@@ -1,7 +1,4 @@
 ## About
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d872b4cd89b0464286e39cdb61c6924f)](https://www.codacy.com/app/vogt-joo/quickd?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=effectpet/quickd&amp;utm_campaign=Badge_Grade)
-
 quickd is a small discord game (bot) that allows you to test your reaction time with other users.
 
 ## Commands
