@@ -31,6 +31,9 @@ token](https://github.com/Chikachi/DiscordIntegration/wiki/How-to-get-a-token-an
 2.  Go to **Settings**
 3.  Set this confiuguration to true: `"javascript.implicitProjectConfig.checkJs": true`
 
+## Add ESLint to Visual Studio Code
+See https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
 ## Contributing
 Before creating an issue, please ensure that it hasn't already been reported/suggested.
 
