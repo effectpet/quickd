@@ -1,4 +1,4 @@
-{
+module.exports = {
 	"command.add.description": "Add yourself to a game",
 	"command.add.addPlayer": "{{username}} was added to the game.",
 	"command.remove.description": "Remove yourself from the game",
@@ -26,4 +26,4 @@
 	"game.win": "{{username}} has won!",
 	"game.gameStared": "New game started by {{username}}",
 	"game.gameStopped": "Game stopped by {{username}}"
-}
+};

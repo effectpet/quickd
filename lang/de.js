@@ -1,4 +1,4 @@
-{
+module.exports = {
 	"command.add.description": "Fügt dich zur Spielerliste des nächsten Spieles hinzu",
 	"command.add.addPlayer": "{{username}} wurde zum Spiel hinzugefügt.",
 	"command.remove.description": "Löscht dich von der Spielerliste des nächsten Spieles",
@@ -26,4 +26,4 @@
 	"game.win": "{{username}} hat gewonnen!",
 	"game.gameStared": "Neues Spiel gestartet von {{username}}",
 	"game.gameStopped": "Spiel beendet von {{username}}"
-}
+};
