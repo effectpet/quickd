@@ -24,7 +24,8 @@
   "dependencies": {
     "discord.js": "^11.4.2",
     "dotenv": "^6.2.0",
-    "eplogger": "git+https://github.com/effectpet/eplogger.git"
+    "eplogger": "git+https://github.com/effectpet/eplogger.git",
+    "eptranslation": "git+https://github.com/effectpet/eptranslation.git"
   },
   "devDependencies": {
     "eslint": "^5.15.1",
